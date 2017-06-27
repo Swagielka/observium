@@ -7,7 +7,7 @@ Observium is an autodiscovering network monitoring platform supporting a wide ra
 Version
 ===
 
-- Observium CE: 0.16.9.8118
+- Observium CE: 0.16.10.8128
 
 ---
 Plugin support (new)
